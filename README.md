@@ -33,7 +33,7 @@ Collection of resources, papers, blog posts, and other documentation around work
 - 2017-06-12 International Institute of Social History (IISG): "Long term preservation with Archivematica" [blog post](https://iisg.amsterdam/en/collections/managing/long-term-preservation-archivematica)
 - 2017-04-11 Max Eckard and Dallas Pillen, Bentley Historical Library, Universty of Michigan: Case study: Streamlining digital archiving workflows at the Bentley Historical Library" [article](resources/Eckard-Pillen_Streamlining-Digital-Archiving-Workflows.pdf)
 - 2017-04-06 Bentley Historical Library, University of Michigan: "An Overview of Archivematica Storage Service Use at the Bentley" [blog post](http://archival-integration.blogspot.com/2017/04/an-overview-of-archivematica-storage.html)
-2017-02-28 Bethany Scott (University of Houston) on SAA BloggERS: "U Houston Preservation and Access Can Coexist: Implementing Archivematica with Collaborative Working Groups" [blog post](https://saaers.wordpress.com/2017/02/28/preservation-and-access-can-coexist-implementing-archivematica-with-collaborative-working-groups/)
+- 2017-02-28 Bethany Scott (University of Houston) on SAA BloggERS: "U Houston Preservation and Access Can Coexist: Implementing Archivematica with Collaborative Working Groups" [blog post](https://saaers.wordpress.com/2017/02/28/preservation-and-access-can-coexist-implementing-archivematica-with-collaborative-working-groups/)
 - 2017 Shaun Trujillo, Beghan Bergin, Margaret Jessup, Johanna Radding, Sara Walden McGowan: "Archivematica Outside the Box: Piloting a Common Approach to Digital Preservation at the Five College Libraries" [article](resources/Archivematica_Outside_the_Box.pdf)
 ## 2016
 
