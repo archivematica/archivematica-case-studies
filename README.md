@@ -15,7 +15,9 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2019
 
+- 2019-11-04: Grant Hurley and Meghan Goodchild. "Preserving Research Data: Finding Our Legs at Scholars Portal" [blog post](https://dpconline.org/blog/idpd/finding-our-legs)
 - 2019-10-22: Alex Chan: Digital Preservation at Wellcome [talk transcript](https://stacks.wellcomecollection.org/digital-preservation-at-wellcome-3f86b423047)
+- 2019-09-16: Goodchild, M. and Hurley, G. at iPres 2019: "Integrating Dataverse and Archivematica for Research Data Preservation." [article](https://ipres2019.org/static/pdf/iPres2019_paper_147.pdf)
 - 2019-08-07: Rice, D., & Schweikert, A. (2019). Microservices in Audiovisual Archives. International Association of Sound and Audiovisual Archives (IASA) Journal, (50), 53–75. https://doi.org/10.35320/ij.v0i50.70
 - 2019-05-20 Rachel MacGregor: Archivematica UK User Group Glasgow 16th May 2019" [blog post](https://anoldhanddigital.wordpress.com/2019/05/20/archivematica-uk-user-group-glasgow-16th-may-2019/)
 - 2019-02-14 Kelly Stewart & Stefana Breitwieser: "SCOPE: A digital archives access interface" [code4lib journal article](https://journal.code4lib.org/articles/14283)
