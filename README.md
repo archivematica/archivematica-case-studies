@@ -11,7 +11,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - Rachel MacGregor's An Old Hand Digital [blog](https://anoldhanddigital.wordpress.com/tag/archivematica/).
 - Rockefeller Archives Center [documentation portal](https://docs.rockarch.org/search/?q=archivematica).
 - Rockefeller Archives Center [blog](https://blog.rockarch.org/tags#Archivematica).
-
+- University of Glasgow Digital Preservation [blog](https://universityofglasgowdigitalpreservation.wordpress.com/)
 
 ## 2019
 
