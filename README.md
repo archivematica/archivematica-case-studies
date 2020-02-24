@@ -18,6 +18,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2019-11-04: Grant Hurley and Meghan Goodchild. "Preserving Research Data: Finding Our Legs at Scholars Portal" [blog post](https://dpconline.org/blog/idpd/finding-our-legs).
 - 2019-10-22: Adam Jansen. "Technological features of preservation systems that support the authenticity of digital records" [paper](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0384577#downloadfiles).
 - 2019-10-22: Alex Chan: Digital Preservation at Wellcome [talk transcript](https://stacks.wellcomecollection.org/digital-preservation-at-wellcome-3f86b423047).
+- 2019-10-16: Moriah Caruso: "Mostly Cloudy in Seattle: University of Washington Libraries, Archivematica, Artefactual, and Amazon Web Services (AWS)" [slides](https://osf.io/uhy59/).
 - 2019-09-25: Alex Garnett: "Keeping Archivematica Video Filesizes Manageable" [blog post](https://axfelix.github.io/ffv1).
 - 2019-09-16: Goodchild, M. and Hurley, G. at iPres 2019: "Integrating Dataverse and Archivematica for Research Data Preservation." [article](https://ipres2019.org/static/pdf/iPres2019_paper_147.pdf).
 - 2019-08-07: Rice, D., & Schweikert, A. (2019). Microservices in Audiovisual Archives. International Association of Sound and Audiovisual Archives (IASA) Journal, (50), 53–75. https://doi.org/10.35320/ij.v0i50.70.
