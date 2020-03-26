@@ -22,7 +22,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2019-09-25: Alex Garnett: "Keeping Archivematica Video Filesizes Manageable" [blog post](https://axfelix.github.io/ffv1).
 - 2019-09-16: Goodchild, M. and Hurley, G. at iPres 2019: "Integrating Dataverse and Archivematica for Research Data Preservation." [article](https://ipres2019.org/static/pdf/iPres2019_paper_147.pdf).
 - 2019-08-07: Rice, D., & Schweikert, A. (2019). Microservices in Audiovisual Archives. International Association of Sound and Audiovisual Archives (IASA) Journal, (50), 53–75. https://doi.org/10.35320/ij.v0i50.70.
-- 2019-08-01: Canadian Research Knowledge Network: "CRKN's use of Archivematica" [github repository](https://github.com/crkn-rcdr/Digital-Preservation/tree/master/Archivematica).
+- 2019-08-01: Canadian Research Knowledge Network: "CRKN's use of Archivematica" [github repository](https://github.com/crkn-rcdr/Digital-Preservation/tree/1090634d377da01ee920849eb32d472425bb3cf7/Archivematica).
 - 2019-05-20 "Rachel MacGregor: Archivematica UK User Group Glasgow 16th May 2019" [blog post](https://anoldhanddigital.wordpress.com/2019/05/20/archivematica-uk-user-group-glasgow-16th-may-2019/).
 - 2019-02-14 Kelly Stewart & Stefana Breitwieser: "SCOPE: A digital archives access interface" [code4lib journal article](https://journal.code4lib.org/articles/14283).
 - 2019-01-10 Eddy Colloton (Denver Art Museum): "That DAM Project" [blog post](http://eddycolloton.com/blog/2019/1/10/that-dam-project).
