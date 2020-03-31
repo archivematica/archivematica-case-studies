@@ -13,6 +13,11 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - Rockefeller Archives Center [blog](https://blog.rockarch.org/tags#Archivematica).
 - University of Glasgow Digital Preservation [blog](https://universityofglasgowdigitalpreservation.wordpress.com/).
 
+
+## 2020
+- 2020-03-31: Grant Hurley. "Running and Integrating Archivematica and AtoM with Vagrant" [blog post](http://www.granthurley.ca/blog/running-and-integrating-archivematica-and-atom-with-vagrant/).
+
+
 ## 2019
 
 - 2019-11-04: Grant Hurley and Meghan Goodchild. "Preserving Research Data: Finding Our Legs at Scholars Portal" [blog post](https://dpconline.org/blog/idpd/finding-our-legs).
