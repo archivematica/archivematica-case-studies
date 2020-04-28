@@ -63,6 +63,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2016-10-25 John Durno (University of Victoria Libraries): "Digital Archaeology and/or Forensics: Working with Floppy Disks from the 1980s" [code4lib journal article](https://journal.code4lib.org/articles/11986).
 - 2016-10-16 Bentley Historical Library, University of Michigan: "Customizing Archivematica's Format Migration Strategies with the Format Policy Registry (FPR)" [blog post](http://archival-integration.blogspot.com/2016/10/customizing-archivematicas-format.html).
 - 2016-10-05 Bentley Historical Library, University of Michigan: "Transferring Legacy Content into Archivematica's Backlog: `automation-tools` to the Rescue!" [blog post](http://archival-integration.blogspot.com/2016/10/transferring-legacy-content-into.html).
+- 2016-02  Mitcham J (University of York), Awre C, Allinson A, Green R, Wilson S, (University of Hull). "Filling the Digital Preservation Gap - A Jisc Research Data Spring project: Phase Two report" [report](resources/2016-02-01-JiscDataSpringFinalReportphase2.pdf).
 - 2016 Bronwen Sprout and Sarah Romkey: "IMPLEMENTATION: Building a Preservation Strategy around Archivematica" [book chapter](https://books.google.ca/books/about/Building_Trustworthy_Digital_Repositorie.html?id=I0V5DAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false).
 
 ## 2015 and prior
