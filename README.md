@@ -57,6 +57,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2017-04-06 Bentley Historical Library, University of Michigan: "An Overview of Archivematica Storage Service Use at the Bentley" [blog post](http://archival-integration.blogspot.com/2017/04/an-overview-of-archivematica-storage.html).
 - 2017-02-28 Bethany Scott (University of Houston) on SAA BloggERS: "U Houston Preservation and Access Can Coexist: Implementing Archivematica with Collaborative Working Groups" [blog post](https://saaers.wordpress.com/2017/02/28/preservation-and-access-can-coexist-implementing-archivematica-with-collaborative-working-groups/).
 - 2017 Shaun Trujillo, Beghan Bergin, Margaret Jessup, Johanna Radding, Sara Walden McGowan: "Archivematica Outside the Box: Piloting a Common Approach to Digital Preservation at the Five College Libraries" [article](resources/Archivematica_Outside_the_Box.pdf).
+
 ## 2016
 
 - 2016-11-04 Bentley Historical Library, University of Michigan: "The End is Just a New Beginning! (The ArchivesSpace-Archivematica-DSpace Workflow Integration project)" [blog post](http://archival-integration.blogspot.com/2016/11/the-end-is-just-new-beginning.html).
@@ -66,13 +67,15 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2016-02  Mitcham J (University of York), Awre C, Allinson A, Green R, Wilson S, (University of Hull). "Filling the Digital Preservation Gap - A Jisc Research Data Spring project: Phase Two report" [report](resources/2016-02-01-JiscDataSpringFinalReportphase2.pdf).
 - 2016 Bronwen Sprout and Sarah Romkey: "IMPLEMENTATION: Building a Preservation Strategy around Archivematica" [book chapter](https://books.google.ca/books/about/Building_Trustworthy_Digital_Repositorie.html?id=I0V5DAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false).
 
-## 2015 and prior
+## 2015
 
 - 2015-03-02 Brad Houston, University of Wisconsin-Milwaukee: The American Archivist Review: Archivematica [article](https://reviews.americanarchivist.org/2016/07/02/archivematica/).
 - 2015-01 Bronwen Sprout and Mark Jordan: Archivematica As a Service: COPPUL’s Shared Digital Preservation Platform [article](resources/archivematica-as-a-service-coppul.pdf).
+
+## 2014
+
 - 2014-10-21 Corey Davis (University of Victoria Libraries): "Archiving the Web: A Case Study from the University of Victoria" [code4lib journal article](https://journal.code4lib.org/articles/10015).
 - 2014 Solomon R. Guggenheim Foundation Electronic Records Management Start-up Project: [document](resources/guggenheim-library-archives-preservation-and-access-formats-2014.pdf).
-
 
 ## Undated
 
