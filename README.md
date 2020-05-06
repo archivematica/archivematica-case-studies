@@ -77,6 +77,18 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2014-10-21 Corey Davis (University of Victoria Libraries): "Archiving the Web: A Case Study from the University of Victoria" [code4lib journal article](https://journal.code4lib.org/articles/10015).
 - 2014 Solomon R. Guggenheim Foundation Electronic Records Management Start-up Project: [document](resources/guggenheim-library-archives-preservation-and-access-formats-2014.pdf).
 
+## 2013
+
+- 2013-09: Van Garderen, P. Mumma, C. at iPres 2013: "Realizing the Archivematica vision: delivering a comprehensive and free OAIS implementation." [article](resources/2013-09-02-Realizing-the-Arhivematica-Vision-MummaVanGarderen-iPres.pdf).
+
+## 2012
+
+- 2012-10: Van Garderen, P. Mumma, C. at iPres 2012: "The Community driven Evolution of the Archivematica Project." [article](resources/2012-10-iPres-Paper49-Community-driven-evolution-of-Archivematica-project-VanGarderen-Mumma.pdf).
+
+## 2010
+
+- 2010-09: Van Garderen, P. at iPres 2010: "Archivematica: Using Micro-services and open-source software to deliver a comprehensive digital curation solution." [article](resources/2010-09-iPres-Archivematica-UsingMicroServicesAndOpenSourceSoftware-VanGarderen.pdf).
+
 ## Undated
 
 - Tim Walsh: How to access Digital Files from the Nineties [article](https://www.cca.qc.ca/en/issues/3/technology-sometimes-falls-short/49023/how-to-access-digital-files-from-the-nineties).
