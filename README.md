@@ -93,6 +93,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2010
 
+- 2010-05-24: Van Garderen, P. at National Archives, College Park, MD (USA). "Archivematica: Creating a Comprehensive Digital Preservation System" [video presentation](https://www.youtube.com/watch?v=czQx4sCO88k)
 - 2010-09: Van Garderen, P. at iPres 2010: "Archivematica: Using Micro-services and open-source software to deliver a comprehensive digital curation solution." [article](resources/2010-09-iPres-Archivematica-UsingMicroServicesAndOpenSourceSoftware-VanGarderen.pdf).
 
 ## Undated
