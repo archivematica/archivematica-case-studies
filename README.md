@@ -13,8 +13,13 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - Rockefeller Archives Center [blog](https://blog.rockarch.org/tags#Archivematica).
 - University of Glasgow Digital Preservation [blog](https://universityofglasgowdigitalpreservation.wordpress.com/).
 
+## 2023
+
+- 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
 ## 2020
+
+- 2020-06-28: Jorik van Kemenade. "The CERN Digital Memory Platform" [thesis](https://cds.cern.ch/record/2728246/files/CERN-THESIS-2020-092.pdf).
 - 2020-03-31: Grant Hurley. "Running and Integrating Archivematica and AtoM with Vagrant" [blog post](http://www.granthurley.ca/blog/running-and-integrating-archivematica-and-atom-with-vagrant/).
 
 
