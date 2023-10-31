@@ -21,6 +21,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 - 2020-06-28: Jorik van Kemenade. "The CERN Digital Memory Platform" [thesis](https://cds.cern.ch/record/2728246/files/CERN-THESIS-2020-092.pdf).
 - 2020-03-31: Grant Hurley. "Running and Integrating Archivematica and AtoM with Vagrant" [blog post](http://www.granthurley.ca/blog/running-and-integrating-archivematica-and-atom-with-vagrant/).
+- 2020-02-19: ArchivesSpace. "Integrations with ArchivesSpace Webinar Series: ArchivesSpace and Archivematica" [video](https://www.youtube.com/watch?v=HtZ_AUgIM9I&feature=youtu.be&ab_channel=ArchivesSpace)
 
 
 ## 2019
