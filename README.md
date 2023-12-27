@@ -6,7 +6,6 @@ Collection of resources, papers, blog posts, and other documentation around work
 
 Each link in this category is scoped to posts tagged with Archivematica.
 
-
 - Bentley Historical Library, University of Michigan ArchivesSpace-Archivematica-DSpace Workflow Integration project (2014-2016) [blog](http://archival-integration.blogspot.com/search/label/Archivematica).
 - Jenny Mitcham, Digital Archiving at the University of York [blog](http://digital-archiving.blogspot.com/search/label/archivematica).
 - Rachel MacGregor's An Old Hand Digital [blog](https://anoldhanddigital.wordpress.com/tag/archivematica/).
