@@ -6,6 +6,7 @@ Collection of resources, papers, blog posts, and other documentation around work
 
 Each link in this category is scoped to posts tagged with Archivematica.
 
+
 - Bentley Historical Library, University of Michigan ArchivesSpace-Archivematica-DSpace Workflow Integration project (2014-2016) [blog](http://archival-integration.blogspot.com/search/label/Archivematica).
 - Jenny Mitcham, Digital Archiving at the University of York [blog](http://digital-archiving.blogspot.com/search/label/archivematica).
 - Rachel MacGregor's An Old Hand Digital [blog](https://anoldhanddigital.wordpress.com/tag/archivematica/).
@@ -15,6 +16,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2023
 
+- 2023-08-14: Lance Thomas Stuchell. "Finding Our Way in the Dark (Repository)" [blogpost](https://blogs.lib.umich.edu/bits-and-pieces/finding-our-way-dark-repository)
 - 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
 ## 2020
