@@ -85,6 +85,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2013
 
+- 2013-11-13: Courney Mumma, NYC Archivists 2013: "The Archivematica Open-Source Digital Preservation System" [talk](https://vimeo.com/98186215)
 - 2013-09: Van Garderen, P. Mumma, C. at iPres 2013: "Realizing the Archivematica vision: delivering a comprehensive and free OAIS implementation." [article](resources/2013-09-02-Realizing-the-Arhivematica-Vision-MummaVanGarderen-iPres.pdf).
 
 ## 2012
