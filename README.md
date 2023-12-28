@@ -17,6 +17,10 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 - 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
+## 2022
+
+- 2022: Tomasz Neugebauer, Sarah Lake. "Archivematica-EPrints Integration: Developing digital preservation capacity for open repositories" [talk](https://www.youtube.com/watch?v=l4b9Gx0k5lU)
+
 ## 2021
 
 - 2021-05: Neugebauer, Tomasz. "EPrints-Archivematica Integration: Concordia Montreal Update" [presentation](https://spectrum.library.concordia.ca/id/eprint/988432/)
