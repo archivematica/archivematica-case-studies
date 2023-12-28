@@ -17,6 +17,10 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 - 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
+## 2022
+
+- 2022-10-03: Mathieu-Alex Haché. "Grille de référence pour l’évaluation de logiciels de préservation numérique" [blogpost](https://archivistesqc.wordpress.com/2022/10/03/logiciel_open-source/)
+
 ## 2020
 
 - 2020-06-28: Jorik van Kemenade. "The CERN Digital Memory Platform" [thesis](https://cds.cern.ch/record/2728246/files/CERN-THESIS-2020-092.pdf).
