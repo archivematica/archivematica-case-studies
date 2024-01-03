@@ -20,8 +20,9 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2022
 
-- 2022: Tomasz Neugebauer, Sarah Lake. "Archivematica-EPrints Integration: Developing digital preservation capacity for open repositories" [talk](https://www.youtube.com/watch?v=l4b9Gx0k5lU)
+- 2022-10-03: Mathieu-Alex Haché. "Grille de référence pour l'évaluation de logiciels de préservation numérique" [blogpost](https://archivistesqc.wordpress.com/2022/10/03/logiciel_open-source/)
 - 2022-12-07: Boyoung Kim, Satoru Nakamura & Hidenori Watanave. "Using Archivematica and Omeka S for Long-Term Preservation and Access of Digitized Archive Materials" [article](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_20)
+- 2022: Tomasz Neugebauer, Sarah Lake. "Archivematica-EPrints Integration: Developing digital preservation capacity for open repositories" [talk](https://www.youtube.com/watch?v=l4b9Gx0k5lU)
 
 ## 2021
 
