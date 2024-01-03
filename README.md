@@ -20,7 +20,12 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2022
 
+- 2022: Tomasz Neugebauer, Sarah Lake. "Archivematica-EPrints Integration: Developing digital preservation capacity for open repositories" [talk](https://www.youtube.com/watch?v=l4b9Gx0k5lU)
 - 2022-12-07: Boyoung Kim, Satoru Nakamura & Hidenori Watanave. "Using Archivematica and Omeka S for Long-Term Preservation and Access of Digitized Archive Materials" [article](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_20)
+
+## 2021
+
+- 2021-05: Neugebauer, Tomasz. "EPrints-Archivematica Integration: Concordia Montreal Update" [presentation](https://spectrum.library.concordia.ca/id/eprint/988432/)
 
 ## 2020
 
