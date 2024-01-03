@@ -15,6 +15,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2023
 
+- 2023-08-14: Lance Thomas Stuchell. "Finding Our Way in the Dark (Repository)" [blogpost](https://blogs.lib.umich.edu/bits-and-pieces/finding-our-way-dark-repository)
 - 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
 ## 2020
