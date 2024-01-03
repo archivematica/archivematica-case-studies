@@ -18,6 +18,10 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - 2023-08-14: Lance Thomas Stuchell. "Finding Our Way in the Dark (Repository)" [blogpost](https://blogs.lib.umich.edu/bits-and-pieces/finding-our-way-dark-repository)
 - 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
+## 2022
+
+- 2022-12-07: Boyoung Kim, Satoru Nakamura & Hidenori Watanave. "Using Archivematica and Omeka S for Long-Term Preservation and Access of Digitized Archive Materials" [article](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_20)
+
 ## 2020
 
 - 2020-06-28: Jorik van Kemenade. "The CERN Digital Memory Platform" [thesis](https://cds.cern.ch/record/2728246/files/CERN-THESIS-2020-092.pdf).
