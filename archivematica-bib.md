@@ -23,6 +23,11 @@ Presented at the conference: Tehnični in Vsebinski problemi klasičnega
 in elektronskega arhiviranja, 11-13 aprila Radenci 2018.
 <https://doi.org/http://dx.doi.org/10.13140/RG.2.2.20228.99202>.
 
+Boyoung, K., S. Nakamura, and H. Watanave. 2022. “Using Archivematica
+and Omeka S for Long-Term Preservation and Access of Digitized Archive
+Materials.” In, 241–50. ICADL 2022.
+<https://link.springer.com/chapter/10.1007/978-3-031-21756-2_20>.
+
 Bronwen, S., and M. Jordan. 2015. “Archivematica as a Service: COPPUL’s
 Shared Digital Preservation Platform.” *Canadian Journal of Information
 and Library Science* 39 (2): 235–44. <https://summit.sfu.ca/item/15519>.
@@ -94,6 +99,10 @@ Groven, A.-K. 2017. “Looking into Archivematica Og Atom: Evaluating
 State of the Art Software for Long-Term Preservation and Access.” 2017.
 <https://riksarkivet.se/Media/pdf-filer/W9_Arne_Kristian_Groven_Archivematica_AtoM.pdf>.
 
+Haché, M.-A. 2022. “Grille de Référence Pour L’évaluation de Logiciels
+de Préservation Numérique.” 2022.
+<https://archivistesqc.wordpress.com/2022/10/03/logiciel_open-source/>.
+
 Hall, N., and M. Boock. 2017. “Environmental Scan of Distributed Digital
 Preservation Services: A Collective Case Study.” In. Presented at
 iPres2017, Tokyo (Japan).
@@ -149,6 +158,10 @@ Morrison, A. 2019. “Update on Archivematica and Data Preservation at
 Strathclyde.” 2019.
 <https://strathoa.tumblr.com/post/182107753375/update-on-archivematica-and-data-preservation-at>.
 
+Mumma, C. 2013. “The Archivematica Open-Source Digital Preservation
+System.” Talk presented at NYC Archivists Roundtable. 2013.
+<https://vimeo.com/98186215>.
+
 Network, Canadian Research Knowledge. 2019. “CRKN’s Use of
 Archivematica.” 2019.
 <https://github.com/crkn-rcdr/Digital-Preservation/tree/main/Archivematica>.
@@ -156,6 +169,15 @@ Archivematica.” 2019.
 Network, JISC Research Data. n.d. “Archivematica Alpha Mvp.” Accessed
 January 3, 2024.
 <https://research-data-network.readme.io/docs/archivematica-alpha-mvp>.
+
+Neugebauer, T. 2021. “EPrints-Archivematica Integration: Concordia
+Montreal Update.” In *Archivematica Camp 2021*.
+<https://spectrum.library.concordia.ca/id/eprint/988432/>.
+
+Neugebauer, T., and S. Lake. 2022. “Archivematica-Eprints Integration:
+Developing Digital Preservation Capacity for Open Repositories.” In.
+Short Paper at iPres 2022.
+<https://www.youtube.com/watch?v=l4b9Gx0k5lU>.
 
 Rice, D., and A. Schweikert. 2019. “Microservices in Audiovisual
 Archives.” *International Association of Sound and Audiovisual Archives
@@ -176,6 +198,9 @@ Preservation with Archivematica.” September 2017.
 Stewart, K., and S. Breitwieser. 2019. “SCOPE: A Digital Archives Access
 Interface.” *Code4lib Journal*, no. 43 (February).
 <https://journal.code4lib.org/articles/14283>.
+
+Stuchell, L. T. 2023. “Finding Our Way in the Dark (Repository).” 2023.
+<https://blogs.lib.umich.edu/bits-and-pieces/finding-our-way-dark-repository>.
 
 Tech, Virginia. 2019. “Digital Preservation: Digital Preservation @ Vt.”
 2019. <https://guides.lib.vt.edu/digipres/vtechdigipres>.
