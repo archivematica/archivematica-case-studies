@@ -2,7 +2,9 @@
 
 Collection of resources, papers, blog posts, and other documentation around working on and with Archivematica.
 
-The complete bibliography in BibTeX format is in [archivematica.bib](./archivematica.bib).
+Access the [complete bibliography](./archivematica.bib) in [Markdown](./archivematica-bib.md) or in [HTML](./archivematica-bib.html).
+
+
 
 ------------------------------------------------------------------------
 
