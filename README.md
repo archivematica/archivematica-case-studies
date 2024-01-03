@@ -15,11 +15,13 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2023
 
+- 2023-08-14: Lance Thomas Stuchell. "Finding Our Way in the Dark (Repository)" [blogpost](https://blogs.lib.umich.edu/bits-and-pieces/finding-our-way-dark-repository)
 - 2023-05: Antonio Vivace, Jean-Yves Le Meur. "The Challenge of Digital Preservation at CERN" [article](https://cds.cern.ch/record/2857550/files/CERN-IT-2023-001.pdf).
 
 ## 2022
 
 - 2022: Tomasz Neugebauer, Sarah Lake. "Archivematica-EPrints Integration: Developing digital preservation capacity for open repositories" [talk](https://www.youtube.com/watch?v=l4b9Gx0k5lU)
+- 2022-12-07: Boyoung Kim, Satoru Nakamura & Hidenori Watanave. "Using Archivematica and Omeka S for Long-Term Preservation and Access of Digitized Archive Materials" [article](https://link.springer.com/chapter/10.1007/978-3-031-21756-2_20)
 
 ## 2021
 
@@ -93,6 +95,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## 2013
 
+- 2013-11-13: Courtney Mumma, NYC Archivists 2013: "The Archivematica Open-Source Digital Preservation System" [talk](https://vimeo.com/98186215)
 - 2013-09: Van Garderen, P. Mumma, C. at iPres 2013: "Realizing the Archivematica vision: delivering a comprehensive and free OAIS implementation." [article](resources/2013-09-02-Realizing-the-Arhivematica-Vision-MummaVanGarderen-iPres.pdf).
 
 ## 2012
