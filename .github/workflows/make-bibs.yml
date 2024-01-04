@@ -1,0 +1,32 @@
+name: pandoc-make-bibs
+
+on: push
+
+jobs:
+  make_md:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+		  args: >-
+			-t markdown_strict
+			--filter=pandoc-citeproc generatebib.md
+			-o output/archivematica-bib.md
+			--bibliography archivematica.bib
+  make_html:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: >-
+            --filter=pandoc-citeproc
+            --standalone generatebib.md
+            -o output/archivematica-bib.html
+            --bibliography archivematica.bib
+  upload_to_github:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/upload-artifact@v3
+        with:
+          name: output
+          path: ./
