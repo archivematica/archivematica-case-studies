@@ -8,11 +8,10 @@ jobs:
     steps:
       - uses: docker://pandoc/core:2.9
         with:
-		  args: >-
-			-t markdown_strict
-			--filter=pandoc-citeproc generatebib.md
-			-o output/archivematica-bib.md
-			--bibliography archivematica.bib
+          args: >-
+            --filter=pandoc-citeproc generatebib.md
+            -o output/archivematica-bib.md
+            --bibliography archivematica.bib
   make_html:
     runs-on: ubuntu-22.04
     steps:
