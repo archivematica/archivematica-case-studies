@@ -1,9 +1,14 @@
-name: pandoc-make-bibs
-
-on: push
+name: test_bibs
+on:
+  pull_request:
+    types:
+      - opened
+    branches:
+      - 'dev/**'
+      - 'restructure'
 
 jobs:
-  make_publish_bib:
+  test_bib:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
