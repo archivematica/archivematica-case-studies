@@ -1,6 +1,10 @@
 name: pandoc-make-bibs
 
 on: push
+    branches:
+      - 'dev/**'
+      - 'restructure'
+      - 'main'
 
 jobs:
   make_publish_bib:
