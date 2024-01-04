@@ -16,7 +16,7 @@ jobs:
           args: >-
             --filter=pandoc-citeproc generatebib.md
             -o output/archivematica-bib.md
-            --bibliography archivematica.bib
+            --bibliography archivematica.bib 
       - uses: docker://pandoc/core:2.9
         with:
           args: >-
@@ -24,6 +24,8 @@ jobs:
             --standalone generatebib.md
             -o output/archivematica-bib.html
             --bibliography archivematica.bib
+      - name: make README
+        run: cat output/archivematica-bib.md intro_placeholder.md > output/README.md      
       - uses: actions/upload-artifact@v3
         with:
           name: output
