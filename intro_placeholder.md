@@ -19,7 +19,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 
 ## Contributing
 
-To add references to this repo, please read the [contributing guide](./CONTRIBUTING.md)
+To add references to this repo, please read the [contributing guide](./CONTRIBUTING.md).
 
 ## Bibliography
 
