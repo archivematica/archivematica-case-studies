@@ -18,6 +18,13 @@ Navigate to the code:
 cd archivematica-case-studies
 ```
 
+To generate everything, run the shell script from the terminal:
+```
+./generate_bibs.sh
+```
+
+This will generate the `archivematica-bib.md`, `README.md` and `archivematica-bib.html`. Add them to your PR if you are making one.
+
 ### Markdown
 
 Run the following from the 'archivematica-case-studies' repo root:
