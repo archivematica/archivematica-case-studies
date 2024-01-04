@@ -12,16 +12,17 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-
       - name: create output dir
         id: make_dir
         run: mkdir output
       - uses: docker://pandoc/core:2.9
         with:
           args: >-
-            --filter=pandoc-citeproc generatebib.md
+            -t markdown_strict
+            --filter=pandoc-citeproc
+            generatebib.md
             -o output/archivematica-bib.md
-            --bibliography archivematica.bib 
+            --bibliography archivematica.bib
       - uses: docker://pandoc/core:2.9
         with:
           args: >-
