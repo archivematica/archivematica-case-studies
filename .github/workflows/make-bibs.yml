@@ -1,6 +1,7 @@
 name: pandoc-make-bibs
 
-on: push
+on: 
+  push:
     branches:
       - 'dev/**'
       - 'restructure'
