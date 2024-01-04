@@ -1,8 +1,7 @@
 name: test_bibs
 on:
   pull_request:
-    types:
-      - opened
+    types: [opened, edited]
     branches:
       - 'dev/**'
       - 'restructure'
