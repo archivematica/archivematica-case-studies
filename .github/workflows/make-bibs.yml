@@ -31,8 +31,8 @@ jobs:
             -o output/archivematica-bib.html
             --bibliography archivematica.bib
       - name: make README
-        run: cat output/archivematica-bib.md intro_placeholder.md > output/README.md      
+        run: cat intro_placeholder.md output/archivematica-bib.md > output/README.md      
       - uses: actions/upload-artifact@v3
         with:
           name: output
-          path: ./
+          path: null
