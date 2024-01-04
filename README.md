@@ -5,9 +5,6 @@ Collection of resources, papers, blog posts, and other documentation around work
 Access the [complete bibliography](./archivematica.bib) in [Markdown](./archivematica-bib.md) or in [HTML](./archivematica-bib.html).
 
 
-
-------------------------------------------------------------------------
-
 ## Project blogs/documentation
 
 Each link in this category is scoped to posts tagged with Archivematica.
@@ -20,40 +17,7 @@ Each link in this category is scoped to posts tagged with Archivematica.
 - University of Glasgow Digital Preservation [blog](https://universityofglasgowdigitalpreservation.wordpress.com/).
 - 2019-08-01: Canadian Research Knowledge Network: "CRKN's use of Archivematica" [github repository](https://github.com/crkn-rcdr/Digital-Preservation).
 
---------------------------------------------------------------------------
+## Contributing
 
-## How to generate the bibliography
+To add references to this repo, please read the [contributing guide](./CONTRIBUTING.md)
 
-*Short answer: use [pandoc](https://pandoc.org/).*
-
-Start by cloning this repo on your local machine:
-
-```
-git clone github://https.com/archivematica/archivematica-case-studies.git
-```
-
-Navigate to the code:
-
-```
-cd archivematica-case-studies
-```
-
-### Markdown
-
-Run the following from the 'archivematica-case-studies' repo root:
-
-```
-pandoc -t markdown_strict --filter=pandoc-citeproc generatebib.md -o archivematica-bib.md --bibliography archivematica.bib
-```
-
-### HTML
-
-Run the following from the 'archivematica-case-studies' repo root:
-
-```
-pandoc --filter=pandoc-citeproc --standalone generatebib.md -o archivematica-bib.html --bibliography archivematica.bib
-```
-
-### References
-
-https://tex.stackexchange.com/a/610890
